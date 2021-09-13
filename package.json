@@ -23,6 +23,6 @@
 		"typescript": "^2.5.2"
 	},
 	"dependencies": {
-		"npm": "^5.8.0"
+		"npm": "^6.2.0"
 	}
 }
