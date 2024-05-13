@@ -29,7 +29,7 @@
     },
     "dependencies": {
         "npm": "^6.1.0",
-        "vscode": "^1.1.5",
+        "vscode": "^1.1.37",
         "vscode-languageclient": "^3.4.2"
     }
 }
